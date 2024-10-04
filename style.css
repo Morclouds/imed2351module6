@@ -29,7 +29,7 @@ li {
 }
 .completed {
     text-decoration: line-through;
-    color: green;
+    color: rgb(41, 149, 41);
 }
 button {
     background: #007bff;
@@ -40,13 +40,13 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background: #0056b3;
+    background: #73ace9;
 }
 #new-task {
     width: calc(100% - 20px);
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(228, 216, 188);
     border-radius: 5px;
 }
 .add-task-button {
